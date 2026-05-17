@@ -1,4 +1,4 @@
-# Hi there 👋 Wasim Akram this side, Welcome to my profile 
+# Hi👋 Wasim Akram this side, Welcome to my profile 
 
 <div align="center">
 
