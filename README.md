@@ -1,151 +1,74 @@
-# Hi👋 Wasim Akram this side, Welcome to my profile 
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Insights;Building+Interactive+Dashboards" alt="Typing SVG" />
+# Hi 👋, I'm <span style="color:#4DA6FF;">Wasim Akram Talikoti</span>
 
-<br><br>
+### ⚡ Aspiring <span style="color:#00BFFF;">Data</span> Analyst | 📊 Turning Data into Insights
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+
 
 </div>
 
 ---
 
-# 🚀 About Me
+<img align="right" alt="Data Analyst" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 B.Tech CSE Student passionate about Data Analytics & Business Intelligence  
-📊 Passionate about Data Analytics, BI Dashboards & Business Insights  
-📈 Skilled in transforming raw datasets into actionable insights  
-⚡ Experienced with Power BI, SQL, Python, Excel & Data Visualization  
-🏆 Interested in solving real-world business problems using data  
-🚀 Continuously learning and building data-driven projects  
+### ⚡ About Me
 
+- 🎓 Currently pursuing Computer Science Engineering  
+- 💡 Curious mind with a strong interest in technology and problem-solving  
+- ⚡ Consistently learning, building, and improving every day  
 ---
 
-# 🛠️ Tech Stack
+### 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,github,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge" />
-
-</div>
-
----
-
-# 📊 Featured Projects
-
-<div align="center">
-
-## 🛒 Blinkit Performance Dashboard
-
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="340"/>
-
-<br>
-
-### 🛠️ Power BI • SQL • Excel • Data Visualization
-
-<br><br><br>
-
-## 🪔 Diwali Sales Analysis
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="340"/>
-
-<br>
-
-### 🛠️ Python • Pandas • NumPy • Matplotlib • EDA
-
-<br><br><br>
-
-## 🏥 Healthcare Analytics Dashboard
-
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="340"/>
-
-<br>
-
-### 🛠️ Power BI • SQL • Excel • Healthcare Analytics
-
-</div>
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Open+to+Collaboration;Let's+Build+with+Data;Connect+with+Me+Below" />
-
-<br><br>
+<a href="https://github.com/Wasim-797" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
 <a href="https://www.linkedin.com/in/Wasim-Akram-5aa070254/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<br><br>
-
-<a href="mailto:rukasanatalikoti@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:wasimackram18@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-
-</div>
+</p>
 
 ---
 
-# ⚡ Fun Zone
+### ⚒️ Technologies & Tools
 
-<div align="center">
+<p align="left">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-```yaml
-while(alive){
-   Eat();
-   Sleep();
-   Analyze_Data();
-   Build_Dashboards();
-   Repeat();
-}
-```
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-✨ Turning coffee into dashboards ☕📊  
-🐍 Python + SQL + Power BI = My comfort zone  
-📈 I see charts everywhere now  
-🚀 Data is temporary, insights are forever  
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=00FF88"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ✨ “Without data, you're just another person with an opinion.” ✨
+### 💻 `SELECT * FROM ambition WHERE dreams = 'big';` 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analyst+in+Progress+%F0%9F%93%8A;Coding+Ideas+Into+Reality+%F0%9F%92%BB;Learning+Something+New+Every+Day+%E2%9A%A1"/>
 
 </div>
